@@ -1,9 +1,5 @@
 #!/usr/bin/python
 
-
-def isMul (i):
-    return (i % 3 ==0) or (i % 5 == 0)
-
 numbers = range(1, 1000)
 count = 0
 for i in numbers:
@@ -11,3 +7,6 @@ for i in numbers:
         count = count + i
 
 print "Sum: ", count
+
+def isMul (i):
+    return (i % 3 ==0) or (i % 5 == 0)
