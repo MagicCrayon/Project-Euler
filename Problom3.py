@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# What I forgot to do was order the results from least to greatest 
+# and print the greatest. Eh, still gives the correct result
+# on the very bottom though. 
+
 number = 600851475143
 i = 2
 
