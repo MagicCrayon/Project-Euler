@@ -1,7 +1,5 @@
 #!/usr/bin/python
 
-# Problom Number 3
-
 number = 600851475143
 i = 2
 
